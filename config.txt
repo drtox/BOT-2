@@ -1,4 +1,4 @@
-token=NjMwODM4NzUwMDExNzE5Njkx.XZ5Izg.QKhuCeE8G3AYrPwllUNDSwmNaNs
+token=NjMwODM4NzUwMDExNzE5Njkx.XZuI0A.xDSw6KrO8Y8PbcDPSjj-Pny_WZQ
 owner=224212326960726017
 prefix=2
 game = 2play - Marshal
