@@ -1,8 +1,8 @@
-token=NjMwODM4NzUwMDExNzE5Njkx.XZ99KQ.1x6VW5EFrNQ9bH_1_5yPYKOOcuk
-owner=224212326960726017
-prefix=2
+token= NjMwODM4NzUwMDExNzE5Njkx.XZ99KQ.1x6VW5EFrNQ9bH_1_5yPYKOOcuk
+owner= 224212326960726017
+prefix= 2
 game = 2play - Marshal
-status = DND
+status = Online
 songinstatus = false
 altprefix = "NONE"
 success = "🌚"
